@@ -8,6 +8,8 @@ Mist Public Repo is your access to all API related resources to your Mist Cloud 
 
 # New Mist Features!
 
+Here are the latest features on Mist Public:
+
   - Websocket for GO: https://github.com/mistsys/websocket
   - gNXI & gRPC Interface Tools - https://github.com/mistsys/gnxi
   - Simple Netlink library for GO - https://github.com/mistsys/netlink
