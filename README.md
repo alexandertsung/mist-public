@@ -51,8 +51,8 @@ Mist is currently extended with the following plugins. Instructions on how to us
 Want to contribute? Great! Reach out to info@mist.com for any questions.
 
 ### Todos
- - Write MORE Tests
- - Add Night Mode
+ - Add more Mist tools
+ - Add more documentation
 
 ### Licensed by Mist
 ----
