@@ -4,26 +4,21 @@
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
-Mist Public Repo is your access to all API related resources to your Mist Cloud AI platform and a great place to stay connected for future updates.
+Mist Public Repo is your access to all API related resources to your Mist Cloud AI platform and a great place to stay connected for future updates. You are welcome to use any of these Mist tools for free and we welcome any feedback to make this public repo better. If you would like to contribute to this repo please contact Mist thru our idea portal or send us an e-mail at info@mist.com. You can also visit our Mist API documentation here but you have to be logged into your Mist Account Portal to access: https://api.mist.com/api/v1/docs/Home
 
 # New Mist Features!
 
 Here are the latest features on Mist Public:
 
-  - Websocket for GO: https://github.com/mistsys/websocket
+  - Websocket for GO - https://github.com/mistsys/websocket
   - gNXI & gRPC Interface Tools - https://github.com/mistsys/gnxi
   - Simple Netlink library for GO - https://github.com/mistsys/netlink
-
-> You are welcome to use any of these Mist tools for free
-> and we welcome any feedback to make this repo better.
-> If you would like to contribute to this repo please contact
-> Mist thru our idea portal or send us an e-mail at info@mist.com
 
 ### GO
 
 Mist has a number of tools for GO including:
 
-* Websocket for GO: https://github.com/mistsys/websocket
+* Websocket for GO - https://github.com/mistsys/websocket
 * Simple Netlink library for GO - https://github.com/mistsys/netlink
 * Integrating with tenable.io - https://github.com/mistsys/go-tenable
 
@@ -31,7 +26,7 @@ Mist has a number of tools for GO including:
 
 Mist has a number of tools for SDK including:
 
-* Android MistSDK: https://github.com/mistsys/mist-vble-android-sdk
+* Android MistSDK - https://github.com/mistsys/mist-vble-android-sdk
 * iOS vble MistSDK - https://github.com/mistsys/mist-vble-ios-sdk
 * iOS MistSDK - https://github.com/mistsys/mist-sdk-ios
 * iOS MistSDK dr - https://github.com/mistsys/mist-sdk-ios-dr
@@ -51,8 +46,8 @@ Mist is currently extended with the following plugins. Instructions on how to us
 Want to contribute? Great! Reach out to info@mist.com for any questions.
 
 ### Todos
- - Write MORE Tests
- - Add Night Mode
+ - Add more documentation
+ - Add more Mist tools
 
 ### Licensed by Mist
 ----
